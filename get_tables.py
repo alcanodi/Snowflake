@@ -20,7 +20,7 @@ except Exception as e:
 
 # Extract data from source in SF
 cursor = conn.cursor()
-cursor.execute('select * from analytics.public.incident_tracker')
+cursor.execute('select top 1* from analytics.public.incident_tracker')
 
 try:
 # Get data
@@ -35,6 +35,8 @@ except Exception as e:
         print(f"Error: {str(e)}")
 
 # Close connection with SF
+
+#df.to_csv('columnas_incident_tracker.csv',sep=',', index=False, encoding='utf-8')
 
 conn.close()
 
