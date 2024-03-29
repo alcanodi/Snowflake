@@ -4,7 +4,7 @@ import snowflake.connector
 from snowflake.connector.pandas_tools import write_pandas
 
 config = configparser.ConfigParser()
-config.read(r"settings file path") # Update '' with the settings file path
+config.read(r"alcanodi/Snowflake/settings - Copy.ini") # Update '' with the settings file path
 snowflake_table = 'Table name in SF to update' # Place the table name in SF to be updated
 
 def upload_to_SF(config, df, snowflake_table):

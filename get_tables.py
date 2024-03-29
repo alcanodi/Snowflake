@@ -3,7 +3,7 @@ import configparser
 import snowflake.connector
 
 config = configparser.ConfigParser()
-config.read(r"SETTINGS PATH") 
+config.read(r"alcanodi/Snowflake/settings - Copy.ini") 
 
 try:
     conn = snowflake.connector.connect(
