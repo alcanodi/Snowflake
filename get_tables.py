@@ -3,7 +3,7 @@ import configparser
 import snowflake.connector
 
 config = configparser.ConfigParser()
-config.read(r"alcanodi/Snowflake/settings - Copy.ini") 
+config.read(r"C:\Users\a.canod\OneDrive - Solvo Global SAS\Documentos\athenahealth\snowflake\Snowflake\settings - Copy.ini") 
 
 try:
     conn = snowflake.connector.connect(
@@ -20,7 +20,7 @@ except Exception as e:
 
 # Extract data from source in SF
 cursor = conn.cursor()
-cursor.execute('SNOWFLAKE QUERY')
+cursor.execute('select * from analytics.public.incident_tracker')
 
 try:
 # Get data
@@ -35,4 +35,5 @@ except Exception as e:
         print(f"Error: {str(e)}")
 
 # Close connection with SF
+
 conn.close()
