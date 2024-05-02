@@ -3,7 +3,7 @@ import configparser
 import snowflake.connector
 
 config = configparser.ConfigParser()
-config.read(r"C:\Users\a.canod\OneDrive - Solvo Global SAS\Documentos\athenahealth\snowflake\Snowflake\settings - Copy.ini") 
+config.read(r"settings_75249.ini") 
 
 try:
     conn = snowflake.connector.connect(
@@ -31,6 +31,7 @@ try:
     df = pd.DataFrame(data, columns=column_names)
 
     print('df extracted from SF')
+    print(df)
 except Exception as e:
         print(f"Error: {str(e)}")
 
