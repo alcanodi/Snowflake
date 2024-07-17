@@ -1,0 +1,75 @@
+2024-07-17 11:13:11,079 - Started
+2024-07-17 11:13:11,093 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:13:11,093 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:13:12,664 - Connected to SF
+2024-07-17 11:13:13,039 - Number of results in first chunk: 1
+2024-07-17 11:13:13,646 - Number of results in first chunk: 0
+2024-07-17 11:13:18,170 - VISIT extracted from SF
+2024-07-17 11:13:19,417 - Wrote VISIT.csv
+2024-07-17 11:13:19,845 - Number of results in first chunk: 0
+2024-07-17 11:13:21,572 - DEPOSITBATCH extracted from SF
+2024-07-17 11:13:21,885 - Wrote DEPOSITBATCH.csv
+2024-07-17 11:13:21,886 - closed
+2024-07-17 11:13:22,135 - No async queries seem to be running, deleting session
+2024-07-17 11:13:22,424 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:13:22,424 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:13:24,190 - Connected to SF
+2024-07-17 11:13:24,508 - Number of results in first chunk: 1
+2024-07-17 11:13:24,899 - Number of results in first chunk: 0
+2024-07-17 11:13:26,535 - ODESSA extracted from SF
+2024-07-17 11:13:26,557 - Wrote ODESSA.csv
+2024-07-17 11:13:26,836 - Number of results in first chunk: 1
+2024-07-17 11:13:26,842 - AOHC  extracted from SF
+2024-07-17 11:13:26,849 - Wrote AOHC .csv
+2024-07-17 11:13:26,849 - closed
+2024-07-17 11:13:27,117 - No async queries seem to be running, deleting session
+2024-07-17 11:13:53,943 - Started
+2024-07-17 11:13:53,956 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:13:53,957 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:13:55,605 - Connected to SF
+2024-07-17 11:13:55,975 - Number of results in first chunk: 1
+2024-07-17 11:13:56,510 - Number of results in first chunk: 0
+2024-07-17 11:14:01,297 - VISIT extracted from SF
+2024-07-17 11:14:02,884 - Wrote VISIT.csv
+2024-07-17 11:14:03,290 - Number of results in first chunk: 0
+2024-07-17 11:14:04,977 - DEPOSITBATCH extracted from SF
+2024-07-17 11:14:05,332 - Wrote DEPOSITBATCH.csv
+2024-07-17 11:14:05,333 - closed
+2024-07-17 11:14:05,593 - No async queries seem to be running, deleting session
+2024-07-17 11:14:05,907 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:14:05,908 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:14:09,001 - Connected to SF
+2024-07-17 11:14:09,336 - Number of results in first chunk: 1
+2024-07-17 11:14:09,834 - Number of results in first chunk: 0
+2024-07-17 11:14:11,387 - ODESSA extracted from SF
+2024-07-17 11:14:11,409 - Wrote ODESSA.csv
+2024-07-17 11:14:11,870 - Number of results in first chunk: 1
+2024-07-17 11:14:11,872 - AOHC  extracted from SF
+2024-07-17 11:14:11,876 - Wrote AOHC .csv
+2024-07-17 11:14:11,877 - closed
+2024-07-17 11:14:12,132 - No async queries seem to be running, deleting session
+2024-07-17 11:15:59,920 - Started
+2024-07-17 11:15:59,934 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:15:59,935 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:16:01,707 - Connected to SF
+2024-07-17 11:16:02,092 - Number of results in first chunk: 1
+2024-07-17 11:16:02,686 - Number of results in first chunk: 0
+2024-07-17 11:16:10,611 - VISIT extracted from SF
+2024-07-17 11:16:12,109 - Wrote VISIT.csv
+2024-07-17 11:16:12,553 - Number of results in first chunk: 0
+2024-07-17 11:16:14,373 - DEPOSITBATCH extracted from SF
+2024-07-17 11:16:14,708 - Wrote DEPOSITBATCH.csv
+2024-07-17 11:16:14,709 - closed
+2024-07-17 11:16:14,971 - No async queries seem to be running, deleting session
+2024-07-17 11:16:15,282 - Snowflake Connector for Python Version: 3.10.0, Python Version: 3.12.2, Platform: Windows-11-10.0.22631-SP0
+2024-07-17 11:16:15,283 - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2024-07-17 11:16:17,371 - Connected to SF
+2024-07-17 11:16:17,921 - Number of results in first chunk: 1
+2024-07-17 11:16:18,610 - Number of results in first chunk: 0
+2024-07-17 11:16:20,224 - ODESSA extracted from SF
+2024-07-17 11:16:20,262 - Wrote ODESSA.csv
+2024-07-17 11:16:20,755 - Number of results in first chunk: 1
+2024-07-17 11:16:20,759 - AOHC  extracted from SF
+2024-07-17 11:16:20,763 - Wrote AOHC .csv
+2024-07-17 11:16:20,764 - closed
+2024-07-17 11:16:21,072 - No async queries seem to be running, deleting session
